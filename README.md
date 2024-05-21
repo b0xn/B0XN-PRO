@@ -48,7 +48,7 @@ Follow the on-screen instructions to start using B0XN-PRO and explore its featur
 
 ## Contribution
 
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/b0xn/B0XN-PRO). Your contributions are highly appreciated!
+If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [Facebook](https://www.facebook.com/SHANT0001). Your butions are highly appreciated!
 
 ## License
 
