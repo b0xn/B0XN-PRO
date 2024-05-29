@@ -41,7 +41,7 @@ cd B0XN-PRO
 Run the script:
 
 ```bash
-python b0xn.py
+python run.py
 ```
 
 Follow the on-screen instructions to start using B0XN-PRO and explore its features.
